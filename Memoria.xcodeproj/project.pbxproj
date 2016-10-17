@@ -38,6 +38,7 @@
 		3A0D5F161DB5635F00EF63A3 /* MemoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoriaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A0D5F1B1DB5635F00EF63A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A0D5F1C1DB5635F00EF63A3 /* MemoriaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoriaTests.swift; sourceTree = "<group>"; };
+		3A0D5F261DB5678B00EF63A3 /* Tarea_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tarea_1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 				3A0D5F0F1DB5635F00EF63A3 /* LaunchScreen.xib */,
 				3A0D5F051DB5635F00EF63A3 /* Memoria.xcdatamodeld */,
 				3A0D5F011DB5635F00EF63A3 /* Supporting Files */,
+				3A0D5F261DB5678B00EF63A3 /* Tarea_1.playground */,
 			);
 			path = Memoria;
 			sourceTree = "<group>";
